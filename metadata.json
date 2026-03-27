@@ -1,0 +1,5 @@
+{
+  "name": "AI Expert Panel Discussion",
+  "description": "A platform where three AI experts (Research, Business, Regulation) discuss a given topic for 10 rounds and provide a final summary.",
+  "requestFramePermissions": []
+}
